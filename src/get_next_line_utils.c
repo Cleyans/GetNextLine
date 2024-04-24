@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
+/*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: brclemen <brclemen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/16 10:45:16 by brclemen          #+#    #+#             */
-/*   Updated: 2023/11/20 11:18:55 by brclemen         ###   ########.fr       */
+/*   Created: 2023/11/07 11:43:23 by brclemen          #+#    #+#             */
+/*   Updated: 2024/04/24 07:06:50 by brclemen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "../include/get_next_line.h"
 
 size_t	ft_strlen(char *str)
 {

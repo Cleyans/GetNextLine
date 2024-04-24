@@ -6,11 +6,11 @@
 /*   By: brclemen <brclemen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/16 10:46:42 by brclemen          #+#    #+#             */
-/*   Updated: 2023/11/16 11:40:28 by brclemen         ###   ########.fr       */
+/*   Updated: 2024/04/24 07:06:16 by brclemen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "../include/get_next_line_bonus.h"
 
 char	*get_next_line(int fd)
 {
